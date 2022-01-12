@@ -13,6 +13,6 @@ class StrRev
 		String s=scan.nextLine();
 		StringBuffer sb=new StringBuffer(s);
 		String s1=sb.reverse().toString();
-		System.out.println(s1);
+		System.out.println(s1+" Hiii");
 	}
 }
